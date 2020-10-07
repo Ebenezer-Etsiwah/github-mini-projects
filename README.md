@@ -1,2 +1,2 @@
 # github-mini-projects
-A repository for the Mini Projects.
+A repository for the resources studied and Javascript Mini Project.
